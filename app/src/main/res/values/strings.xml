@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+   <string name="question_1">What is the meaning of universe? To drink a lot?</string>
+    <string name="question_2">Would you like to sleep all day?</string>
+    <string name="question_3">I think I am superhero.</string>
+
+    <string name="true_label">True</string>
+    <string name="false_label">False</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+
+
+
+
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>
