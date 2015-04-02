@@ -6,7 +6,7 @@
     <string name="question_3">I think I am superhero.</string>
     <string name="question_4">Do you believe in God?</string>
     <string name="question_5">You slept 8 hours last night!</string>
-    <string name="question_6">Is is okaaay?</string>
+    <string name="question_6">Is it okaaay?</string>
 
 
     <string name="true_label">True</string>
@@ -16,7 +16,7 @@
     <string name="incorrect">Incorrect</string>
 
     <string name="stats_label">Stats</string>
-
+    <string name="set_name_label">Input</string>
 
 
 
@@ -28,4 +28,5 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_stats">StatsActivity</string>
+    <string name="title_activity_input">input</string>
 </resources>
